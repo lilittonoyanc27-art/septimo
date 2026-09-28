@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana - Funciones del Lenguaje",
+  "description": "Aplicación bilingüe de estudio (Español - Հայերեն) para el tema Funciones del Lenguaje: texto completo, 6 funciones, tabla nemotécnica, preguntas de examen y texto corto con traducción interactiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
